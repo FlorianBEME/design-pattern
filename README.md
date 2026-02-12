@@ -19,7 +19,7 @@ Chaque pattern est présenté sous forme de carrousel PDF suivant une structure 
 
 Un design pattern qui garantit qu'une classe n'a qu'une seule instance dans toute l'application.
 
-[📄 Voir le carrousel](./SINGLETON.pdf)
+[📄 Voir le carrousel](./singleton.pdf)
 
 **Concepts clés :**
 - Instance unique partagée
@@ -33,7 +33,7 @@ Un design pattern qui garantit qu'une classe n'a qu'une seule instance dans tout
 
 Un pattern qui centralise la création d'objets dans une seule factory.
 
-[📄 Voir le carrousel](./Factory.pdf)
+[📄 Voir le carrousel](./factory.pdf)
 
 **Concepts clés :**
 - Logique centralisée
@@ -47,7 +47,7 @@ Un pattern qui centralise la création d'objets dans une seule factory.
 
 Un mécanisme de souscription/notification pour réagir automatiquement aux changements.
 
-[📄 Voir le carrousel](./Observateur.pdf)
+[📄 Voir le carrousel](./observer.pdf)
 
 **Concepts clés :**
 - Subscribe/notify
