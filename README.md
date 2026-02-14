@@ -71,6 +71,20 @@ Un pattern qui encapsule plusieurs algorithmes et les rend interchangeables pour
 
 ---
 
+
+### 5. Builder Pattern
+> Construis des objets complexes proprement !
+
+Un pattern qui permet de construire des objets de façon lisible et claire, étape par étape.
+
+[📄 Voir le carrousel](./builder.pdf)
+
+**Concepts clés :**
+- Syntaxe fluide et lisible
+- Paramètres optionnels gérés proprement
+- Validation centralisée dans build
+
+
 ---
 ## 🚀 Utilisation
 
