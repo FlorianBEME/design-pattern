@@ -55,6 +55,23 @@ Un mécanisme de souscription/notification pour réagir automatiquement aux chan
 - Système événementiel
 
 ---
+
+
+### 4. Strategy Pattern
+> Change ta stratégie sans changer ton code !
+
+Un pattern qui encapsule plusieurs algorithmes et les rend interchangeables pour changer de comportement dynamiquement.
+
+[📄 Voir le carrousel](./strategy.pdf)
+
+**Concepts clés :**
+- Une stratégie = une classe
+- Changement à la volée
+- Évite les if/else multiples
+
+---
+
+---
 ## 🚀 Utilisation
 
 Ces carrousels sont librement utilisables pour :
